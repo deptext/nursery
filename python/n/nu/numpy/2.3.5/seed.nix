@@ -3,11 +3,11 @@
 deptext.mkPythonPackage {
   pname = "numpy";
   version = "2.3.5";
-  hash = "sha256:04xwh16jm7szizkkhj637jv23i5x8jnzcfrw6bfsrssqkjykaxcm";
+  hash = "sha256:424d0581f9636a5a31c52c86200e7f08f74fde0abe44819c2612b5c2da4c1506";
   github = {
     owner = "numpy";
     repo = "numpy";
     rev = "v2.3.5";
-    hash = "sha256:0qaz2mclr5cv3s5riag6aj3n3avirirnbi7sxpq4nw1vzrq09j6l";
+    hash = "sha256:424d0581f9636a5a31c52c86200e7f08f74fde0abe44819c2612b5c2da4c1506";
   };
 }
