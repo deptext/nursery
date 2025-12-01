@@ -13,8 +13,8 @@ jobs:
   bloom:
     runs-on: ubuntu-latest
     steps:
-      - name: Debug with tmate
-        uses: mxschmitt/action-tmate@v3
-        with:
-          limit-access-to-actor: true  # Only you can connect
       - uses: deptext/core@main
+
+      - name: Debug on failure
+        if: ${{ failure() }}
+        uses: mxschmitt/action-tmate@v3
