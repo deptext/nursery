@@ -1,0 +1,34 @@
+{
+  "pname": "numpy",
+  "version": "2.3.5",
+  "language": "python",
+  "hash": "sha256:eE2x3Nq1a/BRd0PnRt+w+IX8aNlIq6hu7sLLojS98cA=",
+  "github": {
+    "owner": "numpy",
+    "repo": "numpy",
+    "rev": "c3d60fc8393f3ca3306b8ce8b6453d43737e3d90",
+    "hash": "sha256:dN6sZoG48G4jl1XN7J/+mGTqnvUt5WZJmId6aUtdGBg="
+  },
+  "lastBuild": "2025-12-01T21:17:51Z",
+  "buildDuration": 1027,
+  "processors": {
+    "package-download": {
+      "active": true,
+      "published": false,
+      "buildDuration": 893
+    },
+    "source-download": {
+      "active": true,
+      "published": false,
+      "buildDuration": 121
+    },
+    "stats": {
+      "active": true,
+      "published": true,
+      "buildDuration": 13,
+      "fileCount": 1,
+      "fileSize": 153,
+      "hash": "sha256:dda42dc4b4d6e923253c029bc7a5adad08035bdbb05a8248dc75e65a9ff802c6"
+    }
+  }
+}
