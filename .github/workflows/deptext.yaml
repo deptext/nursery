@@ -14,7 +14,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: deptext/core@main
-
-      - name: Debug on failure
-        if: ${{ failure() }}
-        uses: mxschmitt/action-tmate@v3
