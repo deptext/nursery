@@ -1,0 +1,16 @@
+name: DepText Bloom
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '**/seed.nix'
+
+permissions:
+  contents: write
+
+jobs:
+  bloom:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: deptext/core@main
