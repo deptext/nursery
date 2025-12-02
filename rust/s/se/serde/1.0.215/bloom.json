@@ -9,31 +9,31 @@
     "rev": "v1.0.215",
     "hash": "sha256:0qaz2mclr5cv3s5riag6aj3n3avirirnbi7sxpq4nw1vzrq09j6l"
   },
-  "lastBuild": "2025-12-02T00:52:16Z",
-  "buildDuration": 1212,
+  "lastBuild": "2025-12-02T01:02:14Z",
+  "buildDuration": 1141,
   "processors": {
     "package-download": {
       "active": true,
       "published": false,
-      "buildDuration": 27
+      "buildDuration": 18
     },
     "source-download": {
       "active": true,
       "published": false,
-      "buildDuration": 41
+      "buildDuration": 37
     },
     "stats": {
       "active": true,
       "published": true,
-      "buildDuration": 12,
+      "buildDuration": 10,
       "fileCount": 1,
       "fileSize": 154,
-      "hash": "sha256:de52d2d1d9d1d5752631372024f862187c966019af4610d8bfe1062e6feccf52"
+      "hash": "sha256:3ba3b48302431a94043d44a824e0e90edb939b4d6c6ea38bcd683ffdab05ccd6"
     },
     "rustdoc-json": {
       "active": true,
       "published": false,
-      "buildDuration": 1083
+      "buildDuration": 1027
     },
     "rustdoc-md": {
       "active": true,
