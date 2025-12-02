@@ -7,7 +7,8 @@ on:
       - '**/seed.nix'
 
 permissions:
-  contents: write
+  contents: write    # for pushing commits
+  statuses: write    # for reporting status via API
 
 jobs:
   bloom:
