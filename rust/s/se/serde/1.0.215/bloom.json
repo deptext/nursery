@@ -1,0 +1,47 @@
+{
+  "pname": "serde",
+  "version": "1.0.215",
+  "language": "rust",
+  "hash": "sha256:04xwh16jm7szizkkhj637jv23i5x8jnzcfrw6bfsrssqkjykaxcm",
+  "github": {
+    "owner": "serde-rs",
+    "repo": "serde",
+    "rev": "v1.0.215",
+    "hash": "sha256:0qaz2mclr5cv3s5riag6aj3n3avirirnbi7sxpq4nw1vzrq09j6l"
+  },
+  "lastBuild": "2025-12-02T00:48:07Z",
+  "buildDuration": 1343,
+  "processors": {
+    "package-download": {
+      "active": true,
+      "published": false,
+      "buildDuration": 21
+    },
+    "source-download": {
+      "active": true,
+      "published": false,
+      "buildDuration": 42
+    },
+    "stats": {
+      "active": true,
+      "published": true,
+      "buildDuration": 10,
+      "fileCount": 1,
+      "fileSize": 154,
+      "hash": "sha256:e1f2ed14e0787f9415f391e2ec890ba9d30d9a2adcbdf2b1a1418bf954de8495"
+    },
+    "rustdoc-json": {
+      "active": true,
+      "published": false,
+      "buildDuration": 1218
+    },
+    "rustdoc-md": {
+      "active": true,
+      "published": true,
+      "buildDuration": 52,
+      "fileCount": 1,
+      "fileSize": 318402,
+      "hash": "sha256:1f96b5c4cc3c5e26699ff299be03328a7858e6e0e11386e4edae5834449669ed"
+    }
+  }
+}
